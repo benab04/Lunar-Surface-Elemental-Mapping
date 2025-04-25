@@ -1,0 +1,16 @@
+{
+  "fits": [
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164823350_20240825T164831349.fits?class",
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164815350_20240825T164823350.fits?class",
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164807350_20240825T164815350.fits?class",
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164839349_20240825T164847349.fits?class",
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164831349_20240825T164839349.fits?class"
+  ],
+  "xml": [
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164823350_20240825T164831349.xml?class&file=ch2_cla_l1_20240825T164823350_20240825T164831349.fits&type=meta",
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164815350_20240825T164823350.xml?class&file=ch2_cla_l1_20240825T164815350_20240825T164823350.fits&type=meta",
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164807350_20240825T164815350.xml?class&file=ch2_cla_l1_20240825T164807350_20240825T164815350.fits&type=meta",
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164839349_20240825T164847349.xml?class&file=ch2_cla_l1_20240825T164839349_20240825T164847349.fits&type=meta",
+    "https://pradan.issdc.gov.in/ch2/protected/downloadData/POST_OD/isda_archive/ch2_bundle/cho_bundle/nop/cla_collection/cla/data/calibrated/2024/08/25/ch2_cla_l1_20240825T164831349_20240825T164839349.xml?class&file=ch2_cla_l1_20240825T164831349_20240825T164839349.fits&type=meta"
+  ]
+}
