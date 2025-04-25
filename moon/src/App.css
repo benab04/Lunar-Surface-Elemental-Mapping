@@ -1,0 +1,17 @@
+#webgl-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  z-index: 1000; /* Ensure it's on top */
+}
+
+canvas {
+  margin: 0;
+  padding: 0;
+  display: block; /* Avoid any spacing issues caused by inline-block display */
+  width: 100%;
+  height: 100%;
+}
