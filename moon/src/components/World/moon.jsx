@@ -249,7 +249,7 @@ const Moon = () => {
     const [dynamicRendering, setDynamicRendering] = useState(false);
     const [isCanvasInitialized, setIsCanvasInitialized] = useState(false);
     const [imageUrl, setImageUrl] = useState(null);
-    const [showLandmarks, setShowLandmarks] = useState(true);
+    const [showLandmarks, setShowLandmarks] = useState(false);
     const [fileUploadMode, setFileUploadMode] = useState(false)
     const [liveMode, setLiveMode] = useState(false)
     const [activePanel, setActivePanel] = useState('control');
