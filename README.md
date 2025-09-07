@@ -2,7 +2,7 @@
 
 ## Landing Page
 
-![Landing Page](./media/landing.png)
+![Landing Page](./media/landing_page.png)
 Features a detailed 3D model of the Moon, along with a control panel for parameter adjustments. The dashboard is fully interactive, allowing users to zoom and pan to view the Moon from any angle. The Moon's rotation speed can also be adjusted as needed.
 
 ## Calcium Mapping (Example)
