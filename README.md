@@ -5,7 +5,7 @@
 ![Landing Page](./media/landing.png)
 Features a detailed 3D model of the Moon, along with a control panel for parameter adjustments. The dashboard is fully interactive, allowing users to zoom and pan to view the Moon from any angle. The Moon's rotation speed can also be adjusted as needed.
 
-## Calcium Mapping
+## Calcium Mapping (Example)
 
 ![Calcium Mapping](./media/calcium.png)
 Inferno and Uncertainty maps of different elements can be visualized on the Lunar Surface by selecting the element and map type from the dropdown menus. This example showcases the inferno map of Calcium.
